@@ -10,4 +10,5 @@ public abstract class ParentAbstract {
 		System.out.println("Working");
 	}
 	public abstract void salary();
+
 }
